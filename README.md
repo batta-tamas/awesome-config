@@ -1,2 +1,2 @@
 # config
-Debian configs for awesome wm
+configs for awesome wm
